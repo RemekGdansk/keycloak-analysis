@@ -102,3 +102,8 @@ quarkus/data/*.db
 # Keycloak state dir as suggested in the docs
 # -Dkc.home.dir=.kc
 .kc
+
+# Training materials
+.10x-cli.json
+.claude
+CLAUDE.md
