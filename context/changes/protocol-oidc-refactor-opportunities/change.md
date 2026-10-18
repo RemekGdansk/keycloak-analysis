@@ -1,7 +1,7 @@
 ---
 change_id: protocol-oidc-refactor-opportunities
 title: Rank protocol-oidc technical debt as refactor opportunities
-status: preparing
+status: plan_reviewed
 created: 2026-10-18
 updated: 2026-10-18
 archived_at: null
